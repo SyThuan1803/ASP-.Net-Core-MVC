@@ -1,4 +1,4 @@
-﻿using  System.ComponentModel.DataAnnotations  
+﻿using System.ComponentModel.DataAnnotations;  
 namespace RestAPI_Project_BookWeb.Models
 {
     public class Category
