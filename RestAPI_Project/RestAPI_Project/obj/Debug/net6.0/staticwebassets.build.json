@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "s63CIvtLztuoGns5xPD97PPPuKMtCh+njnN6vI+SwIw=",
+  "Hash": "PKKC9p3KaewiV+nqJF0L0XHf7PAJ7NRgRyMIdva3ETI=",
   "Source": "RestAPI_Project_BookWeb",
   "BasePath": "_content/RestAPI_Project_BookWeb",
   "Mode": "Default",
@@ -49,6 +49,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "G:\\ASP-.Net-Core-MVC\\RestAPI_Project\\RestAPI_Project\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\RestAPI_Project_BookWeb.bundle.scp.css"
+    },
+    {
+      "Identity": "G:\\ASP-.Net-Core-MVC\\RestAPI_Project\\RestAPI_Project\\wwwroot\\css\\BootswatchTheme.css",
+      "SourceId": "RestAPI_Project_BookWeb",
+      "SourceType": "Discovered",
+      "ContentRoot": "G:\\ASP-.Net-Core-MVC\\RestAPI_Project\\RestAPI_Project\\wwwroot\\",
+      "BasePath": "_content/RestAPI_Project_BookWeb",
+      "RelativePath": "css/BootswatchTheme.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\BootswatchTheme.css"
     },
     {
       "Identity": "G:\\ASP-.Net-Core-MVC\\RestAPI_Project\\RestAPI_Project\\wwwroot\\css\\site.css",
